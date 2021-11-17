@@ -1,0 +1,17 @@
+{
+    "name": "cookie",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "karthikdeva",
+    "license": "ISC",
+    "dependencies": {
+        "csv-parser": "^3.0.0"
+    },
+    "devDependencies": {
+        "jest": "^27.3.1"
+    }
+}
