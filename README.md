@@ -1,7 +1,7 @@
 ### Get recent cookies
 
 
-## Install the latest version of [node js](https://nodejs.org/en/download/){:target="_blank" rel="noopener"} and navigate to the project folder
+## Install the latest version of [node js](https://nodejs.org/en/download/) and navigate to the project folder
 
 ```sh
   cd node-app
