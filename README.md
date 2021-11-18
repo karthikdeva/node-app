@@ -1,17 +1,29 @@
-# Get recent cookies
+### Get recent cookies
 
-## install latest node version and navigate to the project folder
+## Install the latest version node js and navigate to the project folder
 
-## Run the below commands to start the App
+```sh
+    cd node-app
+ ```
+### Prerequisites
+### Install NPM packages
 
-1. `npm install or npm i `
+* npm
+  ```sh
+  npm install
+  ```
+### Start app
 
-2. `node index.mjs -f cookie_log.csv -d 2018-12-09`
+ ```sh
+    node index.mjs -f cookie_log.csv -d 2018-12-09
+ ```
 
 ![Screenshot](screenshot.png)
 
 ## Run unit test
-1. `npm test`
+```sh
+    npm test
+ ```
 
 ![Screenshot](screenshot_test.png)
 
