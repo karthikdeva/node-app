@@ -10,3 +10,7 @@
 
 ## Run unit test
 1. `npm test`
+
+![Screenshot](screenshot.png)
+
+
