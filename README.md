@@ -3,26 +3,25 @@
 ## Install the latest version node js and navigate to the project folder
 
 ```sh
-    cd node-app
+  cd node-app
  ```
 ### Prerequisites
 ### Install NPM packages
 
-* npm
-  ```sh
+```sh
   npm install
-  ```
+```
 ### Start app
 
  ```sh
-    node index.mjs -f cookie_log.csv -d 2018-12-09
+  node index.mjs -f cookie_log.csv -d 2018-12-09
  ```
 
 ![Screenshot](screenshot.png)
 
 ## Run unit test
 ```sh
-    npm test
+  npm test
  ```
 
 ![Screenshot](screenshot_test.png)
