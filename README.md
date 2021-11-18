@@ -8,9 +8,11 @@
 
 2. `node index.mjs -f cookie_log.csv -d 2018-12-09`
 
+![Screenshot](screenshot.png)
+
 ## Run unit test
 1. `npm test`
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot_test.png)
 
 
